@@ -1,0 +1,15 @@
+{
+  "phones": [
+    {"shortName": "Apple iPhone 7 Plus 128GB Black",
+    "quantity": "1",
+      "cost": "1 436.50 р"},
+    {"shortName": "Samsung Galaxy S8+ Dual SIM 64GB",
+      "quantity": "2",
+      "cost": "1 570.31 р"},
+    {"shortName": "Sony Xperia 10 Plus I4213 Dual SIM 4GB/64GB",
+      "quantity": "3",
+      "cost": "752.73 р"},
+    {"shortName": "Xiaomi Redmi Note 8 4GB/64GB",
+      "quantity": "4",
+      "cost": "435.83 р"}
+  ]}
